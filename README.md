@@ -1,5 +1,7 @@
 # SupplychainSandbox - Classic Game
 
+[![Gitter](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandbox-ClassicGame.svg)](https://gitter.im/SupplyChainSandbox/SupplychainSandbox-ClassicGame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 ## Quick links
 
