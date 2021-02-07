@@ -35,7 +35,7 @@ To Be Determined
 
 ## Gatherings
 
-Please let us know if you are going and if you are interested in attending (or helping to organize!) a gathering. Create a [github issue](https://github.com/SupplyChainSandbox/trivia/issues/new) for an event and add to list below:
+Please let us know if you are going and if you are interested in attending (or helping to organize!) a gathering. Create a [github issue](https://github.com/SupplyChainSandbox/classicgame/issues/new) for an event and add to list below:
 
 * RSA Conference- May 17-20, 2021 
 
@@ -45,7 +45,7 @@ Please let us know if you are going and if you are interested in attending (or h
 
 [Supply Chain Block Game](https://github.com/SupplyChainSandbox/supplychaingame)
 
-[Supply Chain Classic Game](https://github.com/SupplyChainSandbox/classicgame)
+[Supply Chain Trivia Game](https://github.com/SupplyChainSandbox/trivia)
 
 [SBOM (Sipping)](https://github.com/SupplyChainSandbox/sipping)
 
